@@ -2,4 +2,5 @@ cohere
 tqdm
 Annoy
 python-dotenv
-scikit-learn
+scikit-learn==1.3.1
+pandas==2.1.1
