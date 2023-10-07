@@ -1,0 +1,4 @@
+cohere
+tqdm
+Annoy
+python-dotenv
